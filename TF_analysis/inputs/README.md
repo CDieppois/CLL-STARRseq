@@ -1,0 +1,1 @@
+Put local source files here when reproducing TF analyses, or override their paths using environment variables. This directory is ignored by Git except for this README. See ../docs/input_formats.md for required filenames and sources.
