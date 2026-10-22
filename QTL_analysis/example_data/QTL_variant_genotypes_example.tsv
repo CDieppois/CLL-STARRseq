@@ -1,0 +1,4 @@
+variant_id	genotype_ref	genotype_alt	tested_ref	tested_alt	chromosome	start_hg38	end_hg38	tad_id	tad_chromosome	tad_start_hg38	tad_end_hg38	tad_chromosome_hg19	tad_start_hg19	tad_end_hg19	variant_class	category	CLL1	CLL2	CLL3	CLL4	CLL5	CLL6
+example_variant_001	A	G	A	G	chr1	100100	100100	example_TAD_1	chr1	100000	200000	chr1	100500	200500	SNP	Synthetic	0/0	0/1	1/1	0/1	0/0	1/1
+example_variant_002	C	T	C	T	chr2	250100	250100	example_TAD_2	chr2	250000	350000	chr2	250500	350500	SNP	Synthetic	0/1	0/0	0/1	1/1	0/0	1/1
+example_variant_003	A	C,G	A	G	chr3	410100	410100	example_TAD_3	chr3	410000	510000	chr3	410500	510500	Multiallelic	Synthetic	0/0	0/2	2/2	0/2	0/0	0/2

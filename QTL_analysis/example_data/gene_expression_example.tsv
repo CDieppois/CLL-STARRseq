@@ -1,0 +1,2 @@
+feature_id	chromosome	start	end	gene_symbol	CLL1	CLL2	CLL3
+example_probe_1	chr1	100100	100130	GENE1	5.1	4.7	5.8

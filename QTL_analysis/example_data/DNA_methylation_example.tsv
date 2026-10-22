@@ -1,0 +1,2 @@
+feature_id	chromosome	start	end	CLL1	CLL2	CLL3
+example_CpG_1	chr1	100100	100101	0.42	0.56	0.61
